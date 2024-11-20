@@ -6,7 +6,7 @@ In this repository, I will **list** things:
 - Second
 - Third
 
-Now, I will list ordered things:
+Now, I will list *ordered* things:
 1. First
 2. Second
 3. Third
